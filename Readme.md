@@ -10,6 +10,6 @@
 
 ## You can Check it Live on Below Link :
 
-> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://e-comm-landing-page-sj.netlify.app/)
+> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://e-comm-landing-page.vercel.app/)
 
 ---
